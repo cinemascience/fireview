@@ -1,4 +1,4 @@
-# FireView: An Image-based Exploration of Prescribed Fire Simulations 
+# FireView: An Exploration Tool for Prescribed Fire Simulations 
 
 |![application](doc/img/screen_capture.png)|
 | ---- |
