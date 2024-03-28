@@ -1,4 +1,4 @@
-# Using Cinema FireVis application
+# Cinema FireVis application
 
 FireView is an application created to explore the results of
 
