@@ -1,6 +1,10 @@
 # Cinema FireVis application
 
-FireView is an application created to explore the results of
+|![application](doc/img/screen_capture.png)|
+| ---- |
+|*Screen capture of the FireView application.*|
+
+FireView is an application created to explore the results of 
 
 ```
 cinema FireVis [path/to/database] "initial selection" "list of items selected across windows"
