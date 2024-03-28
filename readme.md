@@ -1,4 +1,4 @@
-# Cinema FireVis application
+# Cinema FireView application
 
 |![application](doc/img/screen_capture.png)|
 | ---- |
@@ -7,7 +7,7 @@
 FireView is an application created to explore the results of 
 
 ```
-cinema FireVis [path/to/database] "initial selection" "list of items selected across windows"
+cinema FireView [path/to/database] "initial selection" "list of items selected across windows"
 ```
 
 In the shell:
@@ -15,5 +15,5 @@ In the shell:
 ```
 export PYCINEMA_SCRIPT_DIR=/directory/with/applications
 
-cinema FireVis [cinema database] "SELECT * from index LIMIT 100" "[id list of selection]"
+cinema FireView [cinema database] "SELECT * from index LIMIT 100" "[id list of selection]"
 ```
