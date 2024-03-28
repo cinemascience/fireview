@@ -1,4 +1,4 @@
-# Cinema FireView application
+# FireView: An Image-based Exploration of Prescribed Fire Simulations 
 
 |![application](doc/img/screen_capture.png)|
 | ---- |
