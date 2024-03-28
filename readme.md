@@ -4,7 +4,14 @@
 | ---- |
 |*Screen capture of the FireView application.*|
 
-FireView is an application created to explore the results of 
+FireView is an application created to explore the results of fire simulations. To use, first install
+pycinema module, which will install the python modules and the `cinema` shell command:
+
+```
+pip install pycinema
+``` 
+
+Then clone this repository and copy the `FireView.py` script in a directory of your choice.
 
 ```
 cinema FireView [path/to/database] "initial selection" "list of items selected across windows"
