@@ -29,5 +29,5 @@ To accomplish this, copy the `FireView.py` script to your location. Then in the 
 ```
 export PYCINEMA_SCRIPT_DIR=/directory/with/applications
 
-cinema FireView [cinema database] "SELECT * from index LIMIT 100" "[id list of selection]"
+cinema FireView [cinema database] "SELECT * from input LIMIT 100" "[id list of selection]"
 ```
